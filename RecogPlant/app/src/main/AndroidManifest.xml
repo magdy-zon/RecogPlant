@@ -28,6 +28,10 @@
         </activity>
         <activity android:name=".viewf002" >
         </activity>
+        <activity android:name=".view002" >
+        </activity>
+        <activity android:name=".view003" >
+        </activity>
     </application>
 
 </manifest>

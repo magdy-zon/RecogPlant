@@ -5,12 +5,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class view001 extends Activity implements View.OnClickListener  {
+public class view003 extends Activity implements View.OnClickListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.view001);
+        setContentView(R.layout.view003);
 
         View op1 = findViewById(R.id.op1);
         View op2 = findViewById(R.id.op2);
@@ -22,15 +22,16 @@ public class view001 extends Activity implements View.OnClickListener  {
         Intent abrir;
         switch (view.getId()) {
             case R.id.op1:
-                abrir = new Intent(this, viewf001.class);
+                abrir = new Intent(this, viewf002.class);
                 startActivity(abrir);
                 break;
 
             case R.id.op2:
-                abrir = new Intent(this, view002.class);
+                abrir = new Intent(this, view003.class);
                 startActivity(abrir);
                 break;
         }
 
     }
+
 }
