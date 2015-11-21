@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/pr3"
-    tools:context="com.example.magdy.recogplant.viewf002"
+    tools:context="com.example.magdy.recogplant.viewf005"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     android:orientation="vertical">
 
@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Equisetum"
+                android:text="Selaginella"
                 android:id="@+id/opf1"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"

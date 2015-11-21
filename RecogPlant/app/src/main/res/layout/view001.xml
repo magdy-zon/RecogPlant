@@ -31,7 +31,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Plantas sin hojas o raíces; tallos ramificados dicotómicamente; esporangios triloculares"
+                android:text="@string/view001.1"
                 android:id="@+id/op1"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -44,7 +44,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Plantas con hojas, raramente carente de raíces; esporangios uniloculares"
+                android:text="@string/view001.2"
                 android:id="@+id/op2"
                 android:layout_marginTop="73dp"
                 android:textSize="24sp"

@@ -32,6 +32,18 @@
         </activity>
         <activity android:name=".view003" >
         </activity>
+        <activity android:name=".view004" >
+        </activity>
+        <activity android:name=".view005" >
+        </activity>
+        <activity android:name=".viewf003" >
+        </activity>
+        <activity android:name=".viewf004" >
+        </activity>
+        <activity android:name=".view006" >
+        </activity>
+        <activity android:name=".viewf005" >
+        </activity>
     </application>
 
 </manifest>

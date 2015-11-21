@@ -5,4 +5,22 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_view001">view001</string>
     <string name="title_activity_viewf001">viewf001</string>
+
+
+    <!-- Description options -->
+    <string name="view001.1">Plantas sin hojas o raíces; tallos ramificados dicotómicamente; esporangios triloculares</string>
+    <string name="view001.2">Plantas con hojas, raramente carente de raíces; esporangios uniloculares</string>
+    <string name="view002.1">Hojas con una sola vena sin ramificar (afines a helechos).</string>
+    <string name="view002.2">Hojas complejas (frondas), venas ramificadas (helechos).</string>
+    <string name="view003.1">Hojas en verticilos de 10-15. Formando vainas en los nodos; tallos huecos, estriados</string>
+    <string name="view003.2">Hojas arregladas espiralmente o rara vez en verticilos de 4; tallos sólidos no estriados.</string>
+    <string name="view004.1">Hojas de 3-30 cm de longitud semejantes a pastos, acuáticos</string>
+    <string name="view004.2">Hojas de menos de 3cm de longitud, diferentes a pastos, plantas terrestres o epitetricas no acuáticas.</string>
+    <string name="view005.1">Hojas circinadas con</string>
+    <string name="view005.2">Hojas no circinadas agrupadas en cormos cortos como tallos; Esporangios incrustados en la base de la hoja, no en esporocarpos globosos separados</string>
+    <string name="view006.1">Estróbilos con 4 angulados: hojas oblongas a ovadas; heterospóricas</string>
+    <string name="view006.2">Estróbilos redondeados en sección trasversal o esporangios en las axilas de las hojas sin modificar, hojas con el ápice puntiagudo, usualmente lineales, homosporicas</string>
+
+
+
 </resources>

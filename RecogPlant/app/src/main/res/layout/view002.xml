@@ -32,7 +32,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hojas con una sola vena sin ramificar (afines a helechos)."
+                android:text="@string/view002.1"
                 android:id="@+id/op1"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -45,7 +45,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hojas complejas (frondas), venas ramificadas (helechos)."
+                android:text="@string/view002.2"
                 android:id="@+id/op2"
                 android:layout_marginTop="73dp"
                 android:textSize="24sp"
