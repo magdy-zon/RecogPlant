@@ -5,7 +5,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="com.example.magdy.recogplant.view004"
+    tools:context="com.example.magdy.recogplant.view008"
     android:background="@drawable/bg"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
 
@@ -33,7 +33,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/view004.1"
+                android:text="@string/view008.1"
                 android:id="@+id/op1"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -46,7 +46,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/view004.2"
+                android:text="@string/view008.2"
                 android:id="@+id/op2"
                 android:layout_marginTop="73dp"
                 android:textSize="24sp"

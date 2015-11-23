@@ -1,9 +1,13 @@
 package com.example.magdy.recogplant;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public class view003 extends Activity implements View.OnClickListener {
 
@@ -11,6 +15,11 @@ public class view003 extends Activity implements View.OnClickListener {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.view003);
+
+        CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
+                .setDefaultFontPath("fonts/menulis.ttf")
+                .setFontAttrId(R.attr.fontPath)
+                .build());
 
         View op1 = findViewById(R.id.op1);
         View op2 = findViewById(R.id.op2);
@@ -27,11 +36,17 @@ public class view003 extends Activity implements View.OnClickListener {
                 break;
 
             case R.id.op2:
-                abrir = new Intent(this, view003.class);
+                abrir = new Intent(this, view004.class);
                 startActivity(abrir);
                 break;
         }
 
+    }
+
+    // Instanciacion de lib para cambiar tipografía
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
     }
 
 }

@@ -11,7 +11,8 @@
         android:id="@+id/scrollV"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:scrollbars="none">
 
         <LinearLayout
             android:id="@+id/layoutScroll"
@@ -22,23 +23,52 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Equisetum"
+                android:text="@string/family1"
                 android:id="@+id/opf1"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="22sp"
                 android:textColor="@color/negro"
                 android:background="#E2EFB9"
-                android:padding="10dp"
+                android:padding="5dp"
+                android:layout_gravity="center_vertical|right"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gender2"
+                android:id="@+id/opf2"
+                android:layout_below="@+id/inicio"
+                android:layout_centerHorizontal="true"
+                android:textSize="22sp"
+                android:textColor="@color/negro"
+                android:background="#E2EFB9"
+                android:padding="5dp"
+                android:layout_gravity="center_vertical|right"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/auth1"
+                android:id="@+id/opf3"
+                android:layout_below="@+id/inicio"
+                android:layout_centerHorizontal="true"
+                android:textSize="16sp"
+                android:textColor="@color/negro"
+                android:background="#E2EFB9"
+                android:padding="5dp"
                 android:layout_gravity="center_vertical|right"
                 android:gravity="center"/>
 
             <ImageView
                 android:id="@+id/imageView"
-                android:layout_width="wrap_content"
-                android:layout_height="500dp"
+                android:layout_width="@dimen/width_image"
+                android:layout_height="560dp"
                 android:padding="@dimen/myPadding"
-                android:background="@drawable/pteris_argyrea"/>
+                android:background="@drawable/pteris_argyrea"
+                android:layout_gravity="center"/>
 
             <LinearLayout android:id="@+id/chart"
                 android:orientation="vertical"
@@ -50,7 +80,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="Descripción"
-                android:id="@+id/opf3"
+                android:id="@+id/opf4"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="20sp"
@@ -61,8 +91,8 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget lacus sit amet ex cursus molestie. Suspendisse a dolor luctus, ultrices leo in, dignissim justo. Vivamus non purus lacinia, aliquet eros in, egestas sapien. Aenean consequat nunc in lacus mattis volutpat. Sed a magna quis tellus euismod accumsan et id dui. Duis elementum fringilla vehicula. Etiam pretium sem at mi tincidunt, ac sollicitudin nisl pretium. "
-                android:id="@+id/opf4"
+                android:text="@string/descr2"
+                android:id="@+id/opf5"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="18sp"
@@ -75,8 +105,8 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Ubicación"
-                android:id="@+id/opf5"
+                android:text="@string/distr"
+                android:id="@+id/opf6"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="20sp"

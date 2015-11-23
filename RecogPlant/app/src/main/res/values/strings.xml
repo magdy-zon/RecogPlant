@@ -20,7 +20,65 @@
     <string name="view005.2">Hojas no circinadas agrupadas en cormos cortos como tallos; Esporangios incrustados en la base de la hoja, no en esporocarpos globosos separados</string>
     <string name="view006.1">Estróbilos con 4 angulados: hojas oblongas a ovadas; heterospóricas</string>
     <string name="view006.2">Estróbilos redondeados en sección trasversal o esporangios en las axilas de las hojas sin modificar, hojas con el ápice puntiagudo, usualmente lineales, homosporicas</string>
+    <string name="view007.1">Esporangios nacidos en las axilas de las hojas sin modificar, conos indistintos,</string>
+    <string name="view007.2">Esporangios nacidos en las axilas de las hojas sin modificar que forman conos distintos; hojas horzintales presentes, con brotes verticales distantes a lo largo del rizoma; plantas terrestres.</string>
+    <string name="view008.1">Estróbilos nacidos en pedúnculos foliosos o nodos en ramificaciones laterales; pedúnculos, si están presentes estrechamente espaciados cojinete de hojas no reducidos</string>
+    <string name="view008.2">Estróbilos nacidos en distintos pedúnculos florífero</string>
+    <string name="view009.1">Plantas acuáticas, flotando en la superficie (o varado en piscinas efímeras)</string>
+    <string name="view009.2">Plantas terrestres, epitetricas, o enraizado en lodo o arena en agua poco profunda.</string>
+    <string name="view010.1">Frondas mayores de 5 cm de longitud, pinadas; homosporicas</string>
+    <string name="view010.2">Frondas de menos de 2 cm de longitud</string>
+    <string name="view011.1">Frondas 1-2 mm Longitud, con papila menor que 0.1 mm de longitud sobre la superficie superior</string>
+    <string name="view011.2">Frondas 1-2 cm de longitud, con tricomas en grupos de 4 con bases fusionadas en la superficie más alta</string>
+    <string name="view012.1"></string>
+    <string name="view012.2"></string>
+
+    <!-- Family PLANT'S -->
+    <string name="family1">FAMILIA</string>
+    <string name="family2"></string>
+    <string name="family3"></string>
+    <string name="family4"></string>
+    <string name="family5"></string>
+    <string name="family6"></string>
+    <string name="family7"></string>
+    <string name="family8"></string>
+    <string name="family9"></string>
+    <string name="family10"></string>
+    <string name="family11"></string>
+
+    <!-- Gender PLANT'S -->
+    <string name="gender1">PSILOTUM</string>
+    <string name="gender2">EQUISETUM</string>
+    <string name="gender3">PILULARIA</string>
+    <string name="gender4">ISOËTES</string>
+    <string name="gender5">SELAGINELLA</string>
+    <string name="gender6">HUPERZIA</string>
+    <string name="gender7">LYCOPODIETTA</string>
+    <string name="gender8">LICOPODIUM</string>
+    <string name="gender9">CERAPTOPTERIS</string>
+    <string name="gender10">AZOLLA</string>
+    <string name="gender11">SALVINIA</string>
+    <string name="gender12"></string>
+
+    <!-- Authority PLANT'S -->
+    <string name="auth1">autor apellido</string>
+
+    <string name="distr">Distribución</string>
 
 
+    <!-- Description PLANT'S -->
+    <string name="descr1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget lacus sit amet ex cursus molestie. Suspendisse a dolor luctus, ultrices leo in, dignissim justo. Vivamus non purus lacinia, aliquet eros in, egestas sapien. Aenean consequat nunc in lacus mattis volutpat. Sed a magna quis tellus euismod accumsan et id dui. Duis elementum fringilla vehicula. Etiam pretium sem at mi tincidunt, ac sollicitudin nisl pretium. </string>
+    <string name="descr2"></string>
+    <string name="descr3"></string>
+    <string name="descr4"></string>
+    <string name="descr5"></string>
+    <string name="descr6"></string>
+    <string name="descr7"></string>
+    <string name="descr8"></string>
+    <string name="descr9"></string>
+    <string name="descr10"></string>
+    <string name="descr11"></string>
+    <string name="descr12"></string>
+    <string name="descr13"></string>
 
 </resources>

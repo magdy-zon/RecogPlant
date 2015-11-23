@@ -5,4 +5,5 @@
 
     <!-- Valores personalizados -->
     <dimen name="myPadding">0dp</dimen>
+    <dimen name="width_image">0dp</dimen>
 </resources>

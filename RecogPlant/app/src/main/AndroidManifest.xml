@@ -44,6 +44,30 @@
         </activity>
         <activity android:name=".viewf005" >
         </activity>
+        <activity android:name=".view007" >
+        </activity>
+        <activity android:name=".viewf006" >
+        </activity>
+        <activity android:name=".view008" >
+        </activity>
+        <activity android:name=".viewf007" >
+        </activity>
+        <activity android:name=".viewf008" >
+        </activity>
+        <activity android:name=".view009" >
+        </activity>
+        <activity android:name=".view010" >
+        </activity>
+        <activity android:name=".viewf009" >
+        </activity>
+        <activity android:name=".view011" >
+        </activity>
+        <activity android:name=".view012" >
+        </activity>
+        <activity android:name=".viewf010" >
+        </activity>
+        <activity android:name=".viewf011" >
+        </activity>
     </application>
 
 </manifest>

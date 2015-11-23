@@ -2,8 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/pteris_argyrea"
-    tools:context="com.example.magdy.recogplant.viewf001"
+    android:background="@drawable/pr3"
+    tools:context="com.example.magdy.recogplant.viewf006"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     android:orientation="vertical">
 
@@ -37,7 +37,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/gender1"
+                android:text="@string/gender6"
                 android:id="@+id/GENDER"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -80,7 +80,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="Descripción"
-                android:id="@+id/opf4"
+                android:id="@+id/opf3"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="20sp"
@@ -91,8 +91,8 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/descr1"
-                android:id="@+id/opf5"
+                android:text="@string/descr6"
+                android:id="@+id/opf4"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="18sp"
@@ -106,7 +106,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/distr"
-                android:id="@+id/opf6"
+                android:id="@+id/opf5"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
                 android:textSize="20sp"
