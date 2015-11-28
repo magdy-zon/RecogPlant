@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    >
+
+    <ImageView
+        android:id="@+id/imageGallery"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/school"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <HorizontalScrollView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scrollbars="none"
+            android:layout_alignParentBottom="true">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/school"
+                    android:id="@+id/school"/>
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/abst"
+                    android:id="@+id/abstr"/>
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/iphone"
+                    android:id="@+id/iphone"/>
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/tower"
+                    android:id="@+id/tower"/>
+
+
+            </LinearLayout>
+
+
+        </HorizontalScrollView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

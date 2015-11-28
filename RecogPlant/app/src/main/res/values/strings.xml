@@ -81,4 +81,8 @@
     <string name="descr12"></string>
     <string name="descr13"></string>
 
+
+    <string name="principal1">¡Comenzemos!</string>
+    <string name="principal2">Galeria</string>
+    <string name="principal3">Créditos</string>
 </resources>
