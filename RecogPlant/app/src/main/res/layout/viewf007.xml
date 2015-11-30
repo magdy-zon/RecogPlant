@@ -23,15 +23,12 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/family1"
+                android:text="@string/family7"
                 android:id="@+id/FAMILY"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
                 android:textSize="22sp"
                 android:textColor="@color/negro"
                 android:background="#E2EFB9"
                 android:padding="5dp"
-                android:layout_gravity="center_vertical|right"
                 android:gravity="center"/>
 
             <TextView
@@ -51,7 +48,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/auth1"
+                android:text="@string/auth7"
                 android:id="@+id/AUTHOR"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"

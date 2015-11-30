@@ -1,13 +1,13 @@
 package com.example.magdy.recogplant;
 
+import android.app.Activity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-public class viewf008 extends AppCompatActivity {
+public class viewf008 extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

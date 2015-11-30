@@ -23,7 +23,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/family1"
+                android:text="@string/family5"
                 android:id="@+id/FAMILY"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -51,7 +51,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/auth1"
+                android:text="@string/auth5"
                 android:id="@+id/AUTHOR"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"

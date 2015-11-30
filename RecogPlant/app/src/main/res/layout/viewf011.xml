@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/pr3"
-    tools:context="com.example.magdy.recogplant.viewf010"
+    tools:context="com.example.magdy.recogplant.viewf011"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     android:orientation="vertical">
 
@@ -23,7 +23,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/family1"
+                android:text="@string/family11"
                 android:id="@+id/FAMILY"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"
@@ -51,7 +51,7 @@
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/auth1"
+                android:text="@string/auth11"
                 android:id="@+id/AUTHOR"
                 android:layout_below="@+id/inicio"
                 android:layout_centerHorizontal="true"

@@ -15,6 +15,7 @@ public class view006 extends Activity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.view006);
+
         CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
                 .setDefaultFontPath("fonts/menulis.ttf")
                 .setFontAttrId(R.attr.fontPath)

@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.magdy.recogplant" >
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/rplanti"
@@ -12,7 +10,6 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
-
             <!--
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -81,6 +78,50 @@
         <activity android:name=".galeria" >
         </activity>
         <activity android:name=".creditos" >
+        </activity>
+        <activity android:name=".viewf012" >
+        </activity>
+        <activity android:name=".view013" >
+        </activity>
+        <activity android:name=".view014" >
+        </activity>
+        <activity android:name=".viewf013" >
+        </activity>
+        <activity android:name=".view015" >
+        </activity>
+        <activity android:name=".viewf014" >
+        </activity>
+        <activity android:name=".viewf015" >
+        </activity>
+        <activity android:name=".view016" >
+        </activity>
+        <activity android:name=".viewf016" >
+        </activity>
+        <activity android:name=".view017" >
+        </activity>
+        <activity android:name=".view018" >
+        </activity>
+        <activity android:name=".view019" >
+        </activity>
+        <activity android:name=".viewf018" >
+        </activity>
+        <activity android:name=".viewf017" >
+        </activity>
+        <activity android:name=".view020" >
+        </activity>
+        <activity android:name=".view021" >
+        </activity>
+        <activity android:name=".viewf019" >
+        </activity>
+        <activity android:name=".viewf020" >
+        </activity>
+        <activity android:name=".view022" >
+        </activity>
+        <activity android:name=".viewf021" >
+        </activity>
+        <activity android:name=".viewf022" >
+        </activity>
+        <activity android:name=".view023" >
         </activity>
     </application>
 
