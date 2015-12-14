@@ -10,6 +10,7 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
+
             <!--
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -122,6 +123,264 @@
         <activity android:name=".viewf022" >
         </activity>
         <activity android:name=".view023" >
+        </activity>
+        <activity android:name=".view024" >
+        </activity>
+        <activity android:name=".view025" >
+        </activity>
+        <activity android:name=".viewf023" >
+        </activity>
+        <activity android:name=".viewf024" >
+        </activity>
+        <activity android:name=".view026" >
+        </activity>
+        <activity android:name=".view040" >
+        </activity>
+        <activity android:name=".view027" >
+        </activity>
+        <activity android:name=".viewf025" >
+        </activity>
+        <activity android:name=".viewf026" >
+        </activity>
+        <activity android:name=".viewf027" >
+        </activity>
+        <activity android:name=".view028" >
+        </activity>
+        <activity android:name=".view029" >
+        </activity>
+        <activity android:name=".view030" >
+        </activity>
+        <activity android:name=".view031" >
+        </activity>
+        <activity android:name=".view032" >
+        </activity>
+        <activity android:name=".view033" >
+        </activity>
+        <activity android:name=".view034" >
+        </activity>
+        <activity android:name=".view035" >
+        </activity>
+        <activity android:name=".view036" >
+        </activity>
+        <activity android:name=".view037" >
+        </activity>
+        <activity android:name=".view038" >
+        </activity>
+        <activity android:name=".view039" >
+        </activity>
+        <activity android:name=".view041" >
+        </activity>
+        <activity android:name=".view042" >
+        </activity>
+        <activity android:name=".view043" >
+        </activity>
+        <activity android:name=".view044" >
+        </activity>
+        <activity android:name=".view045" >
+        </activity>
+        <activity android:name=".view046" >
+        </activity>
+        <activity android:name=".view047" >
+        </activity>
+        <activity android:name=".view048" >
+        </activity>
+        <activity android:name=".view049" >
+        </activity>
+        <activity android:name=".view050" >
+        </activity>
+        <activity android:name=".view051" >
+        </activity>
+        <activity android:name=".view052" >
+        </activity>
+        <activity android:name=".view053" >
+        </activity>
+        <activity android:name=".view054" >
+        </activity>
+        <activity android:name=".view055" >
+        </activity>
+        <activity android:name=".view056" >
+        </activity>
+        <activity android:name=".view057" >
+        </activity>
+        <activity android:name=".view058" >
+        </activity>
+        <activity android:name=".view059" >
+        </activity>
+        <activity android:name=".view060" >
+        </activity>
+        <activity android:name=".view061" >
+        </activity>
+        <activity android:name=".view062" >
+        </activity>
+        <activity android:name=".view063" >
+        </activity>
+        <activity android:name=".view064" >
+        </activity>
+        <activity android:name=".view065" >
+        </activity>
+        <activity android:name=".view066" >
+        </activity>
+        <activity android:name=".view067" >
+        </activity>
+        <activity android:name=".view068" >
+        </activity>
+        <activity android:name=".view069" >
+        </activity>
+        <activity android:name=".view070" >
+        </activity>
+        <activity android:name=".view071" >
+        </activity>
+        <activity android:name=".view072" >
+        </activity>
+        <activity android:name=".view073" >
+        </activity>
+        <activity android:name=".view074" >
+        </activity>
+        <activity android:name=".view075" >
+        </activity>
+        <activity android:name=".view076" >
+        </activity>
+        <activity android:name=".view077" >
+        </activity>
+        <activity android:name=".view078" >
+        </activity>
+        <activity android:name=".view079" >
+        </activity>
+        <activity android:name=".view080" >
+        </activity>
+        <activity android:name=".view081" >
+        </activity>
+        <activity android:name=".view082" >
+        </activity>
+        <activity android:name=".view083" >
+        </activity>
+        <activity android:name=".view084" >
+        </activity>
+        <activity android:name=".view085" >
+        </activity>
+        <activity android:name=".viewf028" >
+        </activity>
+        <activity android:name=".viewf030" >
+        </activity>
+        <activity android:name=".viewf029" >
+        </activity>
+        <activity android:name=".viewf031" >
+        </activity>
+        <activity android:name=".viewf032" >
+        </activity>
+        <activity android:name=".viewf033" >
+        </activity>
+        <activity android:name=".viewf034" >
+        </activity>
+        <activity android:name=".viewf035" >
+        </activity>
+        <activity android:name=".viewf036" >
+        </activity>
+        <activity android:name=".viewf037" >
+        </activity>
+        <activity android:name=".viewf038" >
+        </activity>
+        <activity android:name=".viewf039" >
+        </activity>
+        <activity android:name=".viewf040" >
+        </activity>
+        <activity android:name=".viewf041" >
+        </activity>
+        <activity android:name=".viewf042" >
+        </activity>
+        <activity android:name=".viewf043" >
+        </activity>
+        <activity android:name=".viewf044" >
+        </activity>
+        <activity android:name=".viewf045" >
+        </activity>
+        <activity android:name=".viewf046" >
+        </activity>
+        <activity android:name=".viewf047" >
+        </activity>
+        <activity android:name=".viewf048" >
+        </activity>
+        <activity android:name=".viewf049" >
+        </activity>
+        <activity android:name=".viewf050" >
+        </activity>
+        <activity android:name=".viewf051" >
+        </activity>
+        <activity android:name=".viewf052" >
+        </activity>
+        <activity android:name=".viewf053" >
+        </activity>
+        <activity android:name=".viewf054" >
+        </activity>
+        <activity android:name=".viewf055" >
+        </activity>
+        <activity android:name=".viewf056" >
+        </activity>
+        <activity android:name=".viewf057" >
+        </activity>
+        <activity android:name=".viewf058" >
+        </activity>
+        <activity android:name=".viewf059" >
+        </activity>
+        <activity android:name=".viewf060" >
+        </activity>
+        <activity android:name=".viewf061" >
+        </activity>
+        <activity android:name=".viewf062" >
+        </activity>
+        <activity android:name=".viewf063" >
+        </activity>
+        <activity android:name=".viewf064" >
+        </activity>
+        <activity android:name=".viewf065" >
+        </activity>
+        <activity android:name=".viewf066" >
+        </activity>
+        <activity android:name=".viewf067" >
+        </activity>
+        <activity android:name=".viewf068" >
+        </activity>
+        <activity android:name=".viewf069" >
+        </activity>
+        <activity android:name=".viewf070" >
+        </activity>
+        <activity android:name=".viewf071" >
+        </activity>
+        <activity android:name=".viewf072" >
+        </activity>
+        <activity android:name=".viewf073" >
+        </activity>
+        <activity android:name=".viewf074" >
+        </activity>
+        <activity android:name=".viewf075" >
+        </activity>
+        <activity android:name=".viewf076" >
+        </activity>
+        <activity android:name=".viewf077" >
+        </activity>
+        <activity android:name=".viewf078" >
+        </activity>
+        <activity android:name=".viewf079" >
+        </activity>
+        <activity android:name=".viewf081" >
+        </activity>
+        <activity android:name=".viewf080" >
+        </activity>
+        <activity android:name=".viewf082" >
+        </activity>
+        <activity android:name=".viewf083" >
+        </activity>
+        <activity android:name=".viewf084" >
+        </activity>
+        <activity android:name=".viewf085" >
+        </activity>
+        <activity android:name=".viewf086" >
+        </activity>
+        <activity android:name=".viewf087" >
+        </activity>
+        <activity android:name=".viewf088" >
+        </activity>
+        <activity android:name=".viewf089" >
         </activity>
     </application>
 

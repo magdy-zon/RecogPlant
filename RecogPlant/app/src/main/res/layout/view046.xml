@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.magdy.recogplant.view046"
+    android:background="@drawable/bg"
+    android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+
+    <ScrollView
+        android:id="@+id/scrollV"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/layoutScroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/inicio"
+                android:text="Escoje una opción"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/fontTitle"
+                android:textColor="@color/blanco" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/view046.1"
+                android:id="@+id/op1"
+                android:layout_marginTop="48dp"
+                android:textSize="@dimen/fontText"
+                android:textColor="@color/blanco"
+                android:layout_marginLeft="0dp"
+                android:gravity="center"
+                android:layout_marginStart="0dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/view046.2"
+                android:id="@+id/op2"
+                android:layout_marginTop="73dp"
+                android:textSize="@dimen/fontText"
+                android:textColor="@color/blanco"
+                android:gravity="center"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
