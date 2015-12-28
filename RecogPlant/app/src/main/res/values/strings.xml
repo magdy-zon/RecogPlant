@@ -43,7 +43,7 @@
     <string name="view017.1">Láminas bifurcadas dicotómicamente, de más de 15 cm de altura. Plantas terrestres.</string>
     <string name="view017.2">Láminas no bifurcadas dicotómicamente  o si es así, entonces epifitas y menores de 5 cm de altura Plantas terrestres, epitetricas o epífitas.</string>
     <string name="view018.1">Hojas menores de 5cm de longitud, carente de botones o yemas o si no, crecientes continuamente en las axilas, o en furcaciones,________________________ Plantas raras.</string>
-    <string name="view018.2">hojas de 0.7 a 4 m de altura, con brotes o un crecimiento continuo en las furcaciones: ramas de hojas en terminación con divisiones paralelas y muy finas, como las de un peine; esporangios con soros redondos sobre el envés de la fronda; plantas comunes.</string>
+    <string name="view018.2">Hojas de 0.7 a 4 m de altura, con brotes o un crecimiento continuo en las furcaciones: ramas de hojas en terminación con divisiones paralelas y muy finas, como las de un peine; esporangios con soros redondos sobre el envés de la fronda; plantas comunes.</string>
     <string name="view019.1">Partes fértiles no divididas</string>
     <string name="view019.2">Partes fértiles pinadas</string>
     <string name="view020.1">Venas con una sola furcación; entre la vena media y el margen; Con la superficie del envés escamosa, al menos una vena principal; rizomas escamosos; soros generalmente con 4 a esporangios.</string>
@@ -65,7 +65,7 @@
     <string name="view028.1">Los esporangios cubren la superficie abaxial de las hojas fértiles</string>
     <string name="view028.2">Los esporangios en soros discretos</string>
     <string name="view029.1">Frondas estériles 1 vez pinnadas o menos divididas</string>
-    <string name="view029.2">Frondas estériles més de una vez pinnadas</string>
+    <string name="view029.2">Frondas estériles más de una vez pinnadas</string>
     <string name="view030.1">Frondas fértiles palmatífidas o pectinadas</string>
     <string name="view030.2">Frondas fértiles completamente pinnadas</string>
     <string name="view031.1">Rizomas en el ápice y estípite con bases escamosas; esporas bilaterales, MONOLETE</string>
@@ -91,7 +91,7 @@
     <string name="view041.1">Soros eb marginal o submarginal tazas o tubos o cubeta submarginal que enfrentan los márgenes, los márgenes de la hoja no recurvado</string>
     <string name="view041.2">Soros no en los bolsillos marginales que enfrentan los márgenes, sino protegido por los márgenes de la hoja recurvados o soros abierto, sin protección de cualquiera indusios verdadero o falso.</string>
     <string name="view042.1">Frondas muy delgadas (una celula gruesa) receptáculo elongado, filiforme, a menudo se proyecta más allá de la copa Soral o tubo; involucra rn el indusio bibalvado o tubular. </string>
-    <string name="view042.2">frondas generamente con mas de una célula gruesa, receptáculos usualmente no muy elongados, bivalvados, como una copa o linear.</string>
+    <string name="view042.2">Frondas generamente con mas de una célula gruesa, receptáculos usualmente no muy elongados, bivalvados, como una copa o linear.</string>
     <string name="view043.1">Involucra vivalvado; receptáculos usualmente no salientes</string>
     <string name="view043.2">Involucra tubular a conical; receptáculos usualmente salientes</string>
     <string name="view044.1">Tallos stout, bubt erectos, o erectos y ,pelos fronda grande;indusios grandes</string>
@@ -114,8 +114,8 @@
     <string name="view052.2">Rizomas cortos, rastreros a erectos, escamoso; frondas pequeñas a largas; tallos ramas ausentes de bases estípite.</string>
     <string name="view053.1">Venas netted</string>
     <string name="view053.2">Venas libres.</string>
-    <string name="view054.1">Rizomas usualmente largos rastreros, similar a un cordón, firme; láminas delgadas a coriáceas; estípites y hojas peludas a glabras.</string>
-    <string name="view054.2">---------------------</string>
+    <string name="view054.1">------------------------</string>
+    <string name="view054.2">Rizomas usualmente largos rastreros, similar a un cordón, firme; láminas delgadas a coriáceas; estípites y hojas peludas a glabras.</string>
     <string name="view055.1">Soros discreta; ausente indusios interior; rizomas a nivel del suelo; esporas bilateral; ejes menudo espinosa</string>
     <string name="view055.2">Soros continuos; débil indusios interno presente; rizomas bajo tierra; esporas tetraédrica; hachas sin armas</string>
     <string name="view056.1">Cuchillas indivisa lobuladas profundamente, pero no 1-pinnadas o más divididas.</string>
@@ -123,7 +123,7 @@
     <string name="view057.1">Hojas profundamente lobuladas palmeado</string>
     <string name="view057.2">Hojas no lobuladas.</string>
     <string name="view058.1">Láminas de pasta red con vetillas incluidos</string>
-    <string name="view058.2">Láminas de pasta red con vetillas incluidos</string>
+    <string name="view058.2">------------------------</string>
     <string name="view059.1">Cuchillas linear-elípticas, de 9-12 mm de ancho, con 2-4 hileras de areolas entre costillas y los márgenes</string>
     <string name="view059.2">Hojas lineales 1-4 mm de ancho, con una sola fila de areolas entre costillas y los márgenes</string>
     <string name="view060.1">Estípites rojos o cafes; esporas bilaterales</string>
@@ -238,6 +238,9 @@
     <string name="family49"></string>
     <string name="family50"></string>
     <string name="family51"></string>
+
+    <string name="family51_5"></string>
+
     <string name="family52"></string>
     <string name="family53"></string>
     <string name="family54"></string>
@@ -248,10 +251,14 @@
     <string name="family59"></string>
     <string name="family60"></string>
     <string name="family61"></string>
+
+    <string name="family61_5"></string>
+
     <string name="family62"></string>
     <string name="family63"></string>
     <string name="family64"></string>
     <string name="family65"></string>
+    <string name="family65_5"></string>
     <string name="family66"></string>
     <string name="family67"></string>
     <string name="family68"></string>
@@ -306,7 +313,7 @@
     <string name="gender16">LYGODIUM</string>
     <string name="gender17">ACTINOSTACHYS</string>
     <string name="gender18">SCHIZAEA</string>
-    <string name="gender19">DIPLOPRERYGIUM</string>
+    <string name="gender19">DIPLOPTERYGIUM</string>
     <string name="gender20">STICHERUS</string>
     <string name="gender21">DICRANOPTERUS</string>
     <string name="gender22">GLEICHENELLA</string>
@@ -339,6 +346,9 @@
     <string name="gender49">ODONTOSORIA</string>
     <string name="gender50">SPHENOMERIS</string>
     <string name="gender51">HISTIOPTERIS</string>
+
+    <string name="gender51_5">LONCHITIS</string>
+
     <string name="gender52">HYPOLEPIS</string>
     <string name="gender53">PTERIDIUM</string>
     <string name="gender54">DORYOPTERIS</string>
@@ -349,13 +359,17 @@
     <string name="gender59">ADIANTUM</string>
     <string name="gender60">PTERIS</string>
     <string name="gender61">POLYSTICHUM</string>
+
+    <string name="gender61_5">MILDELLA</string>
+
     <string name="gender62">PELLAEA</string>
     <string name="gender63">ADIANTOPSIS</string>
     <string name="gender64">APIDOTIS</string>
     <string name="gender65">NOTHOLAENA</string>
+    <string name="gender65_5">CHEILANTHES</string>
     <string name="gender66">CHEILOPLECTON</string>
     <string name="gender67">ELAPLOGLOSSUM</string>    <!-- DUPLICADO -->
-    <string name="gender68">PITYROGRAMMA</string>
+    <string name="gender68">PITYROGRAMMA (TRIFOLIATA)</string>
     <string name="gender69">SCROSTICHUM</string>
     <string name="gender70">BOLBITIS</string>
     <string name="gender71">LOMARIOPSIS</string>
@@ -441,6 +455,9 @@
     <string name="auth49">autor apellido</string>
     <string name="auth50">autor apellido</string>
     <string name="auth51">autor apellido</string>
+
+    <string name="auth51_5">autor apellido</string>
+
     <string name="auth52">autor apellido</string>
     <string name="auth53">autor apellido</string>
     <string name="auth54">autor apellido</string>
@@ -451,10 +468,14 @@
     <string name="auth59">autor apellido</string>
     <string name="auth60">autor apellido</string>
     <string name="auth61">autor apellido</string>
+
+    <string name="auth61_5">autor apellido</string>
+
     <string name="auth62">autor apellido</string>
     <string name="auth63">autor apellido</string>
     <string name="auth64">autor apellido</string>
     <string name="auth65">autor apellido</string>
+    <string name="auth65_5">autor apellido</string>
     <string name="auth66">autor apellido</string>
     <string name="auth67">autor apellido</string>
     <string name="auth68">autor apellido</string>
@@ -545,6 +566,9 @@
     <string name="descr49"></string>
     <string name="descr50"></string>
     <string name="descr51"></string>
+
+    <string name="descr51_5"></string>
+
     <string name="descr52"></string>
     <string name="descr53"></string>
     <string name="descr54"></string>
@@ -555,10 +579,14 @@
     <string name="descr59"></string>
     <string name="descr60"></string>
     <string name="descr61"></string>
+
+    <string name="descr61_5"></string>
+
     <string name="descr62"></string>
     <string name="descr63"></string>
     <string name="descr64"></string>
     <string name="descr65"></string>
+    <string name="descr65_5"></string>
     <string name="descr66"></string>
     <string name="descr67"></string>
     <string name="descr68"></string>

@@ -382,6 +382,12 @@
         </activity>
         <activity android:name=".viewf089" >
         </activity>
+        <activity android:name=".viewf061_5" >
+        </activity>
+        <activity android:name=".viewf051_5" >
+        </activity>
+        <activity android:name=".viewf065_5" >
+        </activity>
     </application>
 
 </manifest>
