@@ -26,7 +26,7 @@
 
             <TextView
                 android:id="@+id/inicio"
-                android:text="Escoje una opción"
+                android:text="@string/optionValue"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/fontTitle"

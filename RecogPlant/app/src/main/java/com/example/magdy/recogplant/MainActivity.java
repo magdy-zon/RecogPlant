@@ -28,6 +28,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         View t1 = findViewById(R.id.inicio);
         t1.setOnClickListener(this);
+
     }
 
     @Override

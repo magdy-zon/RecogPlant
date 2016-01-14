@@ -17,16 +17,16 @@
 
         <TableRow
             android:gravity="center"
-            android:layout_marginTop="50dp">
+            android:layout_marginTop="@dimen/mtop">
             <TextView
                 android:id="@+id/comenzemos"
                 android:text="@string/principal1"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textSize="25sp"
+                android:textSize="@dimen/fontTextH"
                 android:textColor="@color/blanco"
                 android:layout_gravity="center"
-                android:layout_margin="20dp"/>
+                android:layout_margin="@dimen/mgen"/>
         </TableRow>
 
         <TableRow
@@ -36,10 +36,10 @@
                 android:text="@string/principal2"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textSize="25sp"
+                android:textSize="@dimen/fontTextH"
                 android:textColor="@color/blanco"
                 android:layout_gravity="center"
-                android:layout_margin="20dp"/>
+                android:layout_margin="@dimen/mgen"/>
         </TableRow>
 
         <TableRow
@@ -50,10 +50,10 @@
                 android:textAlignment="center"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textSize="25sp"
+                android:textSize="@dimen/fontTextH"
                 android:textColor="@color/blanco"
                 android:layout_gravity="center"
-                android:layout_margin="20dp"/>
+                android:layout_margin="@dimen/mgen"/>
         </TableRow>
     </TableLayout>
 

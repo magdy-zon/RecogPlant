@@ -4,11 +4,36 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <!-- Valores personalizados -->
-    <dimen name="myPadding">0dp</dimen>
-    <dimen name="width_image">0dp</dimen>
+    <dimen name="myPadding">30dp</dimen>
+    <dimen name="width_image">460dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
     <!-- Valor de las vistas de opciones -->
     <dimen name="fontTitle">25sp</dimen>
-    <dimen name="fontText">24sp</dimen>
+    <dimen name="fontText">22sp</dimen>
+
+    <!-- Valores de las vistas finales -->
+    <dimen name="familyText">22sp</dimen>
+    <dimen name="genderText">22sp</dimen>
+    <dimen name="autorText">16sp</dimen>
+    <dimen name="descTitle">22sp</dimen>
+    <dimen name="descText">18sp</dimen>
+    <dimen name="distTitle">22sp</dimen>
+    <dimen name="distText">18sp</dimen>
+
+    <!-- Valores Home -->
+    <dimen name="fontTextH">25sp</dimen>
+    <dimen name="mtop">50dp</dimen>
+    <dimen name="mgen">20dp</dimen>
+
+    <!-- Valores de introduccion -->
+    <dimen name="recText">25sp</dimen>
+    <dimen name="claveText">14sp</dimen>
+    <dimen name="widthclave">220dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="pgen">12dp</dimen>
+    <dimen name="pleft">12dp</dimen>
+    <dimen name="pright">12dp</dimen>
+    <dimen name="pbottom">12dp</dimen>
 </resources>

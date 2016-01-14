@@ -5,4 +5,34 @@
     <dimen name="activity_horizontal_margin">64dp</dimen>
 
     <dimen name="width_image">360dp</dimen>
+
+    <!-- Valor de las vistas de opciones -->
+    <dimen name="fontTitle">35sp</dimen>
+    <dimen name="fontText">28sp</dimen>
+
+    <!-- Valores de las vistas finales -->
+    <dimen name="familyText">30sp</dimen>
+    <dimen name="genderText">30sp</dimen>
+    <dimen name="autorText">24sp</dimen>
+    <dimen name="descTitle">30sp</dimen>
+    <dimen name="descText">26sp</dimen>
+    <dimen name="distTitle">26sp</dimen>
+    <dimen name="distText">22sp</dimen>
+
+    <!-- Valores Home -->
+    <dimen name="fontTextH">38sp</dimen>
+    <dimen name="mtop">150dp</dimen>
+    <dimen name="mgen">30dp</dimen>
+
+    <!-- Valores de introduccion -->
+    <dimen name="recText">36sp</dimen>
+    <dimen name="claveText">20sp</dimen>
+    <dimen name="widthclave">300dp</dimen>
+
+
+    <!-- Padding -->
+    <dimen name="pgen">20dp</dimen>
+    <dimen name="pleft">20dp</dimen>
+    <dimen name="pright">20dp</dimen>
+    <dimen name="pbottom">20dp</dimen>
 </resources>

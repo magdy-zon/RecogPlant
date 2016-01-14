@@ -26,10 +26,10 @@
 
             <TextView
                 android:id="@+id/inicio"
-                android:text="Escoje una opción"
+                android:text="@string/optionValue"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textSize="25sp"
+                android:textSize="@dimen/fontTitle"
                 android:textColor="@color/blanco" />
 
             <TextView
@@ -38,7 +38,7 @@
                 android:text="@string/view035.1"
                 android:id="@+id/op1"
                 android:layout_marginTop="48dp"
-                android:textSize="24sp"
+                android:textSize="@dimen/fontText"
                 android:textColor="@color/blanco"
                 android:layout_marginLeft="0dp"
                 android:gravity="center"
@@ -50,7 +50,7 @@
                 android:text="@string/view035.2"
                 android:id="@+id/op2"
                 android:layout_marginTop="73dp"
-                android:textSize="24sp"
+                android:textSize="@dimen/fontText"
                 android:textColor="@color/blanco"
                 android:gravity="center"
                 android:paddingLeft="12dp"

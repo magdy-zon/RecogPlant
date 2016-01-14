@@ -388,6 +388,286 @@
         </activity>
         <activity android:name=".viewf065_5" >
         </activity>
+        <activity android:name=".view086" >
+        </activity>
+        <activity android:name=".view087" >
+        </activity>
+        <activity android:name=".view088" >
+        </activity>
+        <activity android:name=".view089" >
+        </activity>
+        <activity android:name=".view090" >
+        </activity>
+        <activity android:name=".view091" >
+        </activity>
+        <activity android:name=".view098" >
+        </activity>
+        <activity android:name=".view092" >
+        </activity>
+        <activity android:name=".view093" >
+        </activity>
+        <activity android:name=".view094" >
+        </activity>
+        <activity android:name=".view095" >
+        </activity>
+        <activity android:name=".view096" >
+        </activity>
+        <activity android:name=".view097" >
+        </activity>
+        <activity android:name=".view099" >
+        </activity>
+        <activity android:name=".view100" >
+        </activity>
+        <activity android:name=".view101" >
+        </activity>
+        <activity android:name=".view102" >
+        </activity>
+        <activity android:name=".view103" >
+        </activity>
+        <activity android:name=".view104" >
+        </activity>
+        <activity android:name=".view105" >
+        </activity>
+        <activity android:name=".view106" >
+        </activity>
+        <activity android:name=".view107" >
+        </activity>
+        <activity android:name=".view108" >
+        </activity>
+        <activity android:name=".view109" >
+        </activity>
+        <activity android:name=".view110" >
+        </activity>
+        <activity android:name=".view111" >
+        </activity>
+        <activity android:name=".view112" >
+        </activity>
+        <activity android:name=".view113" >
+        </activity>
+        <activity android:name=".view114" >
+        </activity>
+        <activity android:name=".view115" >
+        </activity>
+        <activity android:name=".view116" >
+        </activity>
+        <activity android:name=".view117" >
+        </activity>
+        <activity android:name=".view118" >
+        </activity>
+        <activity android:name=".view119" >
+        </activity>
+        <activity android:name=".view120" >
+        </activity>
+        <activity android:name=".view121" >
+        </activity>
+        <activity android:name=".view122" >
+        </activity>
+        <activity android:name=".view123" >
+        </activity>
+        <activity android:name=".view124" >
+        </activity>
+        <activity android:name=".view125" >
+        </activity>
+        <activity android:name=".view157" >
+        </activity>
+        <activity android:name=".view126" >
+        </activity>
+        <activity android:name=".view127" >
+        </activity>
+        <activity android:name=".view128" >
+        </activity>
+        <activity android:name=".view129" >
+        </activity>
+        <activity android:name=".view130" >
+        </activity>
+        <activity android:name=".view131" >
+        </activity>
+        <activity android:name=".view132" >
+        </activity>
+        <activity android:name=".view133" >
+        </activity>
+        <activity android:name=".view134" >
+        </activity>
+        <activity android:name=".view135" >
+        </activity>
+        <activity android:name=".view137" >
+        </activity>
+        <activity android:name=".view136" >
+        </activity>
+        <activity android:name=".view138" >
+        </activity>
+        <activity android:name=".view139" >
+        </activity>
+        <activity android:name=".view140" >
+        </activity>
+        <activity android:name=".view141" >
+        </activity>
+        <activity android:name=".view142" >
+        </activity>
+        <activity android:name=".view143" >
+        </activity>
+        <activity android:name=".view144" >
+        </activity>
+        <activity android:name=".view145" >
+        </activity>
+        <activity android:name=".view146" >
+        </activity>
+        <activity android:name=".view147" >
+        </activity>
+        <activity android:name=".view148" >
+        </activity>
+        <activity android:name=".view149" >
+        </activity>
+        <activity android:name=".view150" >
+        </activity>
+        <activity android:name=".view151" >
+        </activity>
+        <activity android:name=".view152" >
+        </activity>
+        <activity android:name=".view153" >
+        </activity>
+        <activity android:name=".view154" >
+        </activity>
+        <activity android:name=".view155" >
+        </activity>
+        <activity android:name=".view156" >
+        </activity>
+        <activity android:name=".viewf090" >
+        </activity>
+        <activity android:name=".viewf091" >
+        </activity>
+        <activity android:name=".viewf092" >
+        </activity>
+        <activity android:name=".viewf093" >
+        </activity>
+        <activity android:name=".viewf094" >
+        </activity>
+        <activity android:name=".viewf095" >
+        </activity>
+        <activity android:name=".viewf096" >
+        </activity>
+        <activity android:name=".viewf097" >
+        </activity>
+        <activity android:name=".viewf098" >
+        </activity>
+        <activity android:name=".viewf099" >
+        </activity>
+        <activity android:name=".viewf100" >
+        </activity>
+        <activity android:name=".viewf101" >
+        </activity>
+        <activity android:name=".viewf102" >
+        </activity>
+        <activity android:name=".viewf103" >
+        </activity>
+        <activity android:name=".viewf104" >
+        </activity>
+        <activity android:name=".viewf106" >
+        </activity>
+        <activity android:name=".viewf105" >
+        </activity>
+        <activity android:name=".viewf107" >
+        </activity>
+        <activity android:name=".viewf108" >
+        </activity>
+        <activity android:name=".viewf109" >
+        </activity>
+        <activity android:name=".viewf110" >
+        </activity>
+        <activity android:name=".viewf111" >
+        </activity>
+        <activity android:name=".viewf112" >
+        </activity>
+        <activity android:name=".viewf113" >
+        </activity>
+        <activity android:name=".viewf114" >
+        </activity>
+        <activity android:name=".viewf115" >
+        </activity>
+        <activity android:name=".viewf116" >
+        </activity>
+        <activity android:name=".viewf117" >
+        </activity>
+        <activity android:name=".viewf118" >
+        </activity>
+        <activity android:name=".viewf119" >
+        </activity>
+        <activity android:name=".viewf120" >
+        </activity>
+        <activity android:name=".viewf121" >
+        </activity>
+        <activity android:name=".viewf122" >
+        </activity>
+        <activity android:name=".viewf123" >
+        </activity>
+        <activity android:name=".viewf124" >
+        </activity>
+        <activity android:name=".viewf125" >
+        </activity>
+        <activity android:name=".viewf126" >
+        </activity>
+        <activity android:name=".viewf127" >
+        </activity>
+        <activity android:name=".viewf128" >
+        </activity>
+        <activity android:name=".viewf129" >
+        </activity>
+        <activity android:name=".viewf130" >
+        </activity>
+        <activity android:name=".viewf131" >
+        </activity>
+        <activity android:name=".viewf132" >
+        </activity>
+        <activity android:name=".viewf133" >
+        </activity>
+        <activity android:name=".viewf134" >
+        </activity>
+        <activity android:name=".viewf135" >
+        </activity>
+        <activity android:name=".viewf136" >
+        </activity>
+        <activity android:name=".viewf137" >
+        </activity>
+        <activity android:name=".viewf138" >
+        </activity>
+        <activity android:name=".viewf139" >
+        </activity>
+        <activity android:name=".viewf140" >
+        </activity>
+        <activity android:name=".viewf141" >
+        </activity>
+        <activity android:name=".viewf142" >
+        </activity>
+        <activity android:name=".viewf143" >
+        </activity>
+        <activity android:name=".viewf144" >
+        </activity>
+        <activity android:name=".viewf145" >
+        </activity>
+        <activity android:name=".viewf146" >
+        </activity>
+        <activity android:name=".viewf147" >
+        </activity>
+        <activity android:name=".viewf148" >
+        </activity>
+        <activity android:name=".viewf149" >
+        </activity>
+        <activity android:name=".viewf150" >
+        </activity>
+        <activity android:name=".viewf151" >
+        </activity>
+        <activity android:name=".viewf152" >
+        </activity>
+        <activity android:name=".viewf157" >
+        </activity>
+        <activity android:name=".viewf153" >
+        </activity>
+        <activity android:name=".viewf154" >
+        </activity>
+        <activity android:name=".viewf155" >
+        </activity>
+        <activity android:name=".viewf156" >
+        </activity>
     </application>
 
 </manifest>

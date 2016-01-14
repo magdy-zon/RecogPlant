@@ -8,6 +8,6 @@ public class view157 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_view157);
+        setContentView(R.layout.view157);
     }
 }

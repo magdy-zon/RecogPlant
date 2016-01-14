@@ -2,7 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/pr3"
     tools:context="com.example.magdy.recogplant.viewf078"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     android:orientation="vertical">
@@ -10,7 +9,7 @@
     <ScrollView
         android:id="@+id/scrollV"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
         android:scrollbars="none">
 
@@ -25,13 +24,10 @@
                 android:layout_height="wrap_content"
                 android:text="@string/family78"
                 android:id="@+id/FAMILY"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="22sp"
+                android:textSize="@dimen/familyText"
                 android:textColor="@color/negro"
                 android:background="#E2EFB9"
                 android:padding="5dp"
-                android:layout_gravity="center_vertical|right"
                 android:gravity="center"/>
 
             <TextView
@@ -39,13 +35,10 @@
                 android:layout_height="wrap_content"
                 android:text="@string/gender78"
                 android:id="@+id/GENDER"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="22sp"
+                android:textSize="@dimen/genderText"
                 android:textColor="@color/negro"
                 android:background="#E2EFB9"
                 android:padding="5dp"
-                android:layout_gravity="center_vertical|right"
                 android:gravity="center"/>
 
             <TextView
@@ -53,68 +46,67 @@
                 android:layout_height="wrap_content"
                 android:text="@string/auth78"
                 android:id="@+id/AUTHOR"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="16sp"
+                android:textSize="@dimen/autorText"
                 android:textColor="@color/negro"
                 android:background="#E2EFB9"
                 android:padding="5dp"
-                android:layout_gravity="center_vertical|right"
                 android:gravity="center"/>
 
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="@dimen/width_image"
                 android:layout_height="560dp"
-                android:padding="@dimen/myPadding"
                 android:background="@drawable/pteris_argyrea"
                 android:layout_gravity="center"/>
 
             <LinearLayout android:id="@+id/chart"
                 android:orientation="vertical"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
                 android:layout_weight="1" />
 
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Descripción"
-                android:id="@+id/opf3"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="20sp"
+                android:text="@string/descr"
+                android:id="@+id/opf4"
+                android:textSize="@dimen/descTitle"
                 android:textColor="@color/negro"
-                android:padding="12dp"
+                android:padding="@dimen/pgen"
                 android:background="#E2EFB9"/>
 
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/descr78"
-                android:id="@+id/opf4"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="18sp"
+                android:id="@+id/opf5"
+                android:textSize="@dimen/descText"
                 android:textColor="@color/negro"
-                android:layout_gravity="center_vertical|right"
-                android:paddingLeft="12dp"
-                android:paddingRight="12dp"
+                android:paddingLeft="@dimen/pleft"
+                android:paddingRight="@dimen/pright"
                 android:background="#E2EFB9"/>
 
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/distr"
-                android:id="@+id/opf5"
-                android:layout_below="@+id/inicio"
-                android:layout_centerHorizontal="true"
-                android:textSize="20sp"
+                android:id="@+id/opf6"
+                android:textSize="@dimen/descText"
                 android:textColor="@color/negro"
-                android:padding="12dp"
+                android:padding="@dimen/pgen"
                 android:background="#E2EFB9"/>
 
-
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/distr078"
+                android:id="@+id/opf7"
+                android:textSize="@dimen/distText"
+                android:textColor="@color/negro"
+                android:paddingLeft="@dimen/pleft"
+                android:paddingRight="@dimen/pright"
+                android:paddingBottom="@dimen/pbottom"
+                android:background="#E2EFB9"/>
 
         </LinearLayout>
     </ScrollView>
